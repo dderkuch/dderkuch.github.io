@@ -1,0 +1,166 @@
+/**Universal Style**/
+
+body {
+    font-family: 'Playfair Display';
+    margin: 0 10%;
+    background-color: rgb(234, 234, 234);
+}
+.container {
+    border: 1px solid #081919;
+    padding: 15px;
+    margin: 20px auto;
+}
+
+/**Color Style**/
+.color-container {
+    width: 100%;
+}
+.color-panel {
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    margin: 20px auto;
+    font-weight: bold;
+    border: 1px solid black;
+}
+.purplicious {
+    background-color: rgb(104, 17, 175);
+    color: #fff;
+    
+}
+
+.dead-red {
+    background-color: rgb(73, 7, 20);
+    color: #fff;
+
+}
+
+.vibin-teal {
+    background-color: rgb(110, 211, 143);
+    color: #fff;
+
+}
+
+.vomit-green {
+    background-color: rgb(71, 68,16);
+    color: #fff;
+
+}
+
+.logo-red {
+    background-color: rgb(193, 42, 48);
+    color: #000;
+}
+.brighter-red {
+    background-color: rgb(240, 17, 3);
+    color:#000;
+}
+.deeper-red {
+    background-color: rgb(149, 19, 24);
+    color:#000;
+
+}
+.logo-black {
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+
+}
+.shadow-black {
+    background-color: rgb(12, 12, 14);
+    color:#fff;
+
+}
+.dark-grey {
+    background-color: rgb(23, 24, 28);
+    color: #fff;
+
+}
+.light-black {
+    background-color: rgb(6, 6, 7);
+    color: #fff;
+}
+.logo-white {
+    background-color: rgb(253, 253, 253);
+    color: #000;
+
+}
+.pure-white {
+    background-color: rgb(255, 255, 255);
+    color: #000;
+}
+.ghost-white {
+    background-color: rgb(244, 244, 244);
+    color: #000;
+}
+.soft-white {
+    background-color: rgb(249, 249, 249);
+
+}
+
+/**Font Style**/
+.font-panel {
+    width: auto;
+    padding:20px;
+}
+
+.font-label {
+    font-size: 18px;
+    font-weight: 500;
+
+}
+.font-example {
+    font-size: 14px;
+}
+.font-example-bold {
+    font-weight: bold;
+    font-size: 14px;
+}
+.font-example-italic {
+    font-size: 14px;
+    font-style: italic;
+}
+
+.caveat {
+    font-family: 'Caveat', cursive;
+}
+
+.cherrybomb {
+    font-family: 'Cherry Bomb One', cursive;
+}
+
+.playfair {
+    font-family: 'Playfair Display', serif;
+}
+
+.rubik {
+    font-family: 'Rubik Puddles', cursive;
+}
+
+.tsukimi {
+    font-family: 'Tsukimi Rounded', sans-serif;
+}
+.foldit {
+    font-family: 'Foldit', cursive;
+}
+.orbitron {
+    font-family: 'Orbitron', sans-serif;
+}
+.gruppo {
+    font-family: 'Gruppo', sans-serif;
+}
+.bruno-ace {
+    font-family: 'Bruno Ace SC', cursive;
+}
+.audiowide {
+    font-family: 'Audiowide', cursive;
+}
+.bungee-shade {
+    font-family: 'Bungee Shade', cursive;
+}
+.koho {
+    font-family: 'KoHo', sans-serif;
+}
+.faster-one {
+    font-family: 'Faster One', cursive;
+}
+/**Text Style**/
